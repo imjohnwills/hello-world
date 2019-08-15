@@ -10,3 +10,4 @@ print = "that".
 type = blah
 Hey this is an extra branch! I'm testing the in-line new branch stuff inside of GitHub.
 hey now this is the final edit from inside of what i think is the final-2.0 branch
+wait i can make multiple commites in the same branch. Idk why I forget about that but this whole thing is finally starting to make sense.
